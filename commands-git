@@ -1,4 +1,6 @@
 git clone https://github.com/saint-martin-justine/git-begins 
-git push 
-git push origin HEAD:master 
-git fetch origin main 
+git add --all
+git commit -m [nom du commentaire]
+git push origin main 
+git branch [nom de la branche]
+git checkout [nom de la branche]
